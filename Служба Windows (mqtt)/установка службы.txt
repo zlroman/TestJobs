@@ -1,0 +1,5 @@
+Установка службы:
+1. Взять installutil из C:\Windows\WinSxS\x86_installutil_b03f5f7f11d50a3a_4.0.15713.0_none_1c41c57423a1d82c\
+2. Скопировать приложение службы и m2mqtt.net.dll в отдельную папку 
+3. Скопировать в эту же папку installutil
+4. запустить installutil от имени администратора

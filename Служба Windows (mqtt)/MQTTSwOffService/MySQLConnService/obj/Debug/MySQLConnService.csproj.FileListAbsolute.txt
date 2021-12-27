@@ -1,0 +1,23 @@
+D:\RomanZ\Test_3apps\Служба Windows\MySQLConnService\MySQLConnService\bin\Debug\MySQLConnService.exe.config
+D:\RomanZ\Test_3apps\Служба Windows\MySQLConnService\MySQLConnService\bin\Debug\MySQLConnService.exe
+D:\RomanZ\Test_3apps\Служба Windows\MySQLConnService\MySQLConnService\bin\Debug\MySQLConnService.pdb
+D:\RomanZ\Test_3apps\Служба Windows\MySQLConnService\MySQLConnService\obj\Debug\MySQLConnService.csproj.AssemblyReference.cache
+D:\RomanZ\Test_3apps\Служба Windows\MySQLConnService\MySQLConnService\obj\Debug\MySQLConnService.csproj.CoreCompileInputs.cache
+D:\RomanZ\Test_3apps\Служба Windows\MySQLConnService\MySQLConnService\obj\Debug\MySQLConnService.exe
+D:\RomanZ\Test_3apps\Служба Windows\MySQLConnService\MySQLConnService\obj\Debug\MySQLConnService.pdb
+D:\RomanZ\Test_3apps\Служба Windows\MySQLConnService\MySQLConnService\obj\Debug\MySQLConnService.Service1.resources
+D:\RomanZ\Test_3apps\Служба Windows\MySQLConnService\MySQLConnService\obj\Debug\MySQLConnService.csproj.GenerateResource.cache
+D:\RomanZ\Test_3apps\Служба Windows\MySQLConnService\MySQLConnService\obj\Debug\MySQLConnService.ProjectInstaller.resources
+D:\RomanZ\Test_3apps\Служба Windows (mqtt)\MQTTSwOffService\MySQLConnService\bin\Debug\MQTTSwOffService.exe.config
+D:\RomanZ\Test_3apps\Служба Windows (mqtt)\MQTTSwOffService\MySQLConnService\bin\Debug\MQTTSwOffService.exe
+D:\RomanZ\Test_3apps\Служба Windows (mqtt)\MQTTSwOffService\MySQLConnService\bin\Debug\MQTTSwOffService.pdb
+D:\RomanZ\Test_3apps\Служба Windows (mqtt)\MQTTSwOffService\MySQLConnService\bin\Debug\M2Mqtt.Net.dll
+D:\RomanZ\Test_3apps\Служба Windows (mqtt)\MQTTSwOffService\MySQLConnService\bin\Debug\M2Mqtt.Net.pdb
+D:\RomanZ\Test_3apps\Служба Windows (mqtt)\MQTTSwOffService\MySQLConnService\obj\Debug\MySQLConnService.csprojAssemblyReference.cache
+D:\RomanZ\Test_3apps\Служба Windows (mqtt)\MQTTSwOffService\MySQLConnService\obj\Debug\MySQLConnService.ProjectInstaller.resources
+D:\RomanZ\Test_3apps\Служба Windows (mqtt)\MQTTSwOffService\MySQLConnService\obj\Debug\MySQLConnService.Service1.resources
+D:\RomanZ\Test_3apps\Служба Windows (mqtt)\MQTTSwOffService\MySQLConnService\obj\Debug\MySQLConnService.csproj.GenerateResource.cache
+D:\RomanZ\Test_3apps\Служба Windows (mqtt)\MQTTSwOffService\MySQLConnService\obj\Debug\MySQLConnService.csproj.CoreCompileInputs.cache
+D:\RomanZ\Test_3apps\Служба Windows (mqtt)\MQTTSwOffService\MySQLConnService\obj\Debug\MySQLConnService.csproj.CopyComplete
+D:\RomanZ\Test_3apps\Служба Windows (mqtt)\MQTTSwOffService\MySQLConnService\obj\Debug\MQTTSwOffService.exe
+D:\RomanZ\Test_3apps\Служба Windows (mqtt)\MQTTSwOffService\MySQLConnService\obj\Debug\MQTTSwOffService.pdb

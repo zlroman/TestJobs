@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9a544cc6-1f07-4547-9541-7bfb3aae02e1": {
+      "ProjectGuid": "9a544cc6-1f07-4547-9541-7bfb3aae02e1",
+      "DisplayName": "MySQLConnService",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
