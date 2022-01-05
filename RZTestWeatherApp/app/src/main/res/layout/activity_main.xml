@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/text_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50sp"
+        android:text="@string/Header"
+        android:textAlignment="center"
+        android:textColor="#9F472A"
+        android:textSize="34sp"
+        android:textStyle="bold" />
+
+
+    <Button
+        android:id="@+id/button_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editText_town"
+        android:layout_marginStart="10sp"
+        android:layout_marginTop="30sp"
+        android:layout_marginEnd="10sp"
+        android:text="@string/button_main" />
+
+    <TextView
+        android:id="@+id/text_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button_main"
+        android:layout_marginStart="10sp"
+        android:layout_marginTop="30sp"
+        android:layout_marginEnd="10sp"
+
+        android:textAlignment="center" />
+
+    <EditText
+        android:id="@+id/editText_town"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text_header"
+
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Введите название города" />
+
+</RelativeLayout>
